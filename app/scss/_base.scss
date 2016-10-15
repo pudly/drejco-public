@@ -1,0 +1,30 @@
+// border-box all the things
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+// base body style
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  font-weight: 200;
+}
+
+
+// branding
+.branding {
+  @include ir;
+  background: url(/img/logo.svg);
+  background-size: cover;
+}
+
+
+footer {
+  height: 300px;
+  background: $brand-black;
+}
