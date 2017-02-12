@@ -1,4 +1,8 @@
-/* global */
+/* bourbon and neat */
+@import "bourbon";
+@import "neat";
+
+/* theme */
 @import "mixins";
 @import "base";
 @import "typography";
