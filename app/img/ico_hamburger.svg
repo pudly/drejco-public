@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="26px" viewBox="0 0 32 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-1358.000000, -50.000000)" fill="#FFFFFF">
+            <g id="ico_hamburger">
+                <g transform="translate(1358.000000, 50.000000)">
+                    <path d="M1.45421245,11 C1.45421245,11 29.047619,8.75 31.0915751,11 C33.1355311,13.25 31.0915751,15.5 31.0915751,15.5 C31.0915751,15.5 4,13.0197429 1.45421245,15.5 C-1.09157509,17.9802571 1.45421245,11 1.45421245,11 Z" id="Path-2"></path>
+                    <path d="M1.45421245,1 C1.45421245,1 29.047619,-1.25 31.0915751,1 C33.1355311,3.25 31.0915751,5.5 31.0915751,5.5 C31.0915751,5.5 2.47619048,6.625 1.45421245,5.5 C0.432234432,4.375 1.45421245,1 1.45421245,1 Z" id="Path-2"></path>
+                    <path d="M1.45421245,21 C1.45421245,21 29.047619,18.75 31.0915751,21 C33.1355311,23.25 31.0915751,25.5 31.0915751,25.5 C31.0915751,25.5 2.47619048,26.625 1.45421245,25.5 C0.432234432,24.375 1.45421245,21 1.45421245,21 Z" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
