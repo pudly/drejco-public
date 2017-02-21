@@ -1,0 +1,105 @@
+/* bourbon and neat */
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+/* theme */
+/* image replacement */
+/* reset */
+/* transforms and animations */
+/* breakpoints */
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+body, html {
+  overflow-x: hidden; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff; }
+
+.branding {
+  display: block;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  background: url(/img/logo_drej-type.svg);
+  height: 60px;
+  width: 158px;
+  background-size: auto 100%; }
+
+footer {
+  height: 300px; }
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 400; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 700;
+  margin: 0;
+  text-transform: uppercase; }
+
+.page_header {
+  position: relative;
+  padding: 50px;
+  background: #4F2153 url(/img/logo_drej-mark.svg) 50% 98% no-repeat; }
+  .page_header:after, .page_header:before {
+    content: '';
+    width: calc( 50% + 7.5px);
+    height: 60px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: #4F2153;
+    transform: rotate(5deg);
+    transform-origin: 0 0; }
+  .page_header:after {
+    left: auto;
+    right: 0;
+    transform: rotate(-5deg);
+    transform-origin: 100% 0; }
+  .page_header > h2 {
+    font-size: 3.5em;
+    line-height: .9em;
+    text-align: center;
+    width: 90%;
+    max-width: 14em;
+    margin: 1em auto .5em auto;
+    color: #fff; }
+    .page_header > h2 a {
+      color: #F07F35;
+      text-decoration: none; }
+  .page_header > h3 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.4em;
+    color: #fff;
+    text-transform: none;
+    font-weight: 300;
+    text-align: center;
+    width: 90%;
+    max-width: 25em;
+    margin: 0 auto 180px auto; }
+
+.page_navigation h2 {
+  display: block;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  background: url(/img/ico_hamburger.svg) no-repeat 50% 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  cursor: pointer; }
+
+.page_navigation ul {
+  display: none; }
