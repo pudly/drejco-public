@@ -29,7 +29,7 @@ body {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: url(/img/logo_drej-type.svg);
+  background: url(../img/logo_drej-type.svg);
   height: 60px;
   width: 158px;
   background-size: auto 100%; }
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 .page_header {
   position: relative;
   padding: 50px;
-  background: #4F2153 url(/img/logo_drej-mark.svg) 50% 98% no-repeat; }
+  background: #4F2153 url(../img/logo_drej-mark.svg) 50% 98% no-repeat; }
   .page_header:after, .page_header:before {
     content: '';
     width: calc( 50% + 7.5px);
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: url(/img/ico_hamburger.svg) no-repeat 50% 50%;
+  background: url(../img/ico_hamburger.svg) no-repeat 50% 50%;
   width: 40px;
   height: 40px;
   position: absolute;

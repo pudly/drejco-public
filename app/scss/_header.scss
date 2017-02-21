@@ -2,7 +2,7 @@
   position: relative;
 
   padding: 50px;
-  background: $brand-purple url(/img/logo_drej-mark.svg) 50% 98% no-repeat;
+  background: $brand-purple url(../img/logo_drej-mark.svg) 50% 98% no-repeat;
 
   &:after,
   &:before {
@@ -57,7 +57,7 @@
 .page_navigation {
   h2 {
     @include ir;
-    background: url(/img/ico_hamburger.svg) no-repeat 50% 50%;
+    background: url(../img/ico_hamburger.svg) no-repeat 50% 50%;
     width: 40px;
     height: 40px;
     position: absolute;
